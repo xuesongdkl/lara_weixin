@@ -22,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="WxUserModel.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="WxUserModel.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Model/WxUserModel.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="7.419355">
-              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.67407405">
+              <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
               <folding>
                 <element signature="e#29#68#0#PHP" expanded="true" />
               </folding>
@@ -34,10 +34,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UserController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Admin/Controllers/Weixin/UserController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.05925926">
+            <state vertical-scroll-proportion="1.032258">
               <caret line="143" column="40" selection-start-line="143" selection-start-column="40" selection-end-line="143" selection-end-column="40" />
               <folding>
                 <element signature="e#48#74#0#PHP" expanded="true" />
@@ -87,6 +87,7 @@
         <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Weixin/WxController.php" />
         <option value="$PROJECT_DIR$/app/Admin/Controllers/Weixin/UserController.php" />
+        <option value="$PROJECT_DIR$/app/Model/WxUserModel.php" />
       </list>
     </option>
   </component>
@@ -346,7 +347,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="2" width="1378" height="733" extended-state="1" />
+    <frame x="-7" y="2" width="1378" height="733" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -401,22 +402,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Model/WxUserModel.php">
+    <entry file="file://$PROJECT_DIR$/app/Admin/Controllers/Weixin/UserController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="7.419355">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        <state vertical-scroll-proportion="1.032258">
+          <caret line="143" column="40" selection-start-line="143" selection-start-column="40" selection-end-line="143" selection-end-column="40" />
           <folding>
-            <element signature="e#29#68#0#PHP" expanded="true" />
+            <element signature="e#48#74#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Admin/Controllers/Weixin/UserController.php">
+    <entry file="file://$PROJECT_DIR$/app/Model/WxUserModel.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.05925926">
-          <caret line="143" column="40" selection-start-line="143" selection-start-column="40" selection-end-line="143" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.67407405">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
           <folding>
-            <element signature="e#48#74#0#PHP" expanded="true" />
+            <element signature="e#29#68#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>

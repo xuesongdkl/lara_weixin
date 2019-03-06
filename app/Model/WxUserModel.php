@@ -30,5 +30,7 @@ class WxUserModel extends Model
         }
         return $token;
 
+        //1111
+
     }
 }
